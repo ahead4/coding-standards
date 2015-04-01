@@ -81,3 +81,24 @@ function test()
 }
 ?>
 ```
+
+## Class functions
+
+Prefix the function name with the request type.
+
+```php
+<?php namespace Foo\Bar;
+
+class Bar
+{
+  public function getIndex()
+  {
+    // code
+  }
+  
+  public function postIndex()
+  {
+    // code
+  }
+}
+```
