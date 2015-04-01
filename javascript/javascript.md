@@ -2,7 +2,7 @@
 
 Generally we follow [Airbnb's Coding Standards](https://github.com/airbnb/javascript) with the exception of using tabs instead of spaces. We use tabs and set the spacings to be 4.
 
-I have attached our [.jscsrc](.jshrc) which you can put in the root of your project (if it's not already there) which should get picked up by the linter in your text editor.
+I have attached our [.jscsrc](http://gitlab.ahead4.com/ahead4/coding-standards/blob/master/javascript/.jscsrc) which you can put in the root of your project (if it's not already there) which should get picked up by the linter in your text editor.
 
 ## Installing a linter
 
