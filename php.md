@@ -38,9 +38,17 @@ $array = [];
 ?>
 ```
 
-## Namespaces
+## Namespace & Use
 
-Each namespace should have its own line, *except* for aliases which can share a use statement.
+Namespaces should be on the first line directly after the php open tag.
+
+```php
+<?php namespace Foo\Bar;
+
+?>
+```
+
+Each use should have its own line, *except* for aliases which can share a use statement.
 
 Aliases should appear before other use statements.
 
