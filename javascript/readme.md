@@ -1,4 +1,4 @@
-# Javascript
+# JavaScript
 
 Generally we follow [Airbnb's Coding Standards](https://github.com/airbnb/javascript) with the exception of using tabs instead of spaces. We use tabs and set the spacings to be 4.
 
