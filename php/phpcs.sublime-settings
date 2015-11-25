@@ -117,7 +117,8 @@
     // }
     "phpcbf_additional_args": {
         "--standard": "D:\\coding-standards\\php\\phpcs-ruleset.xml",
-        "-n": ""
+        "-n": "",
+        "--no-patch": ""
     },
 
 
