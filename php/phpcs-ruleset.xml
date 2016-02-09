@@ -12,4 +12,6 @@
 			<property name="tabIndent" value="true"/>
 		</properties>
 	</rule>
+	<rule ref="Generic.PHP.LowerCaseKeyword"/>
+	<rule ref="Generic.PHP.LowerCaseConstant"/>
 </ruleset>
